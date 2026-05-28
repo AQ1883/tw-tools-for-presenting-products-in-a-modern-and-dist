@@ -1,0 +1,21 @@
+{
+    "name": "tw-tools-for-presenting-products-in-a-modern-and-dist",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@salla.sa/twilight-bundles": "^0.1.0",
+        "vite": "^5.0.0"
+    },
+    "author": "ahmalhumidan@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AQ1883/tw-tools-for-presenting-products-in-a-modern-and-dist"
+    },
+    "private": true
+}
